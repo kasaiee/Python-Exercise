@@ -1,4 +1,11 @@
-# Python-Exercise
-More exercises to become a good python developer
+## <div dir="rtl">تمرین اول</div>
 
-## <div dir="rtl">تمرین پایتون</div>
+<div dir="rtl">تابعی بنویسید که حاضل ضرب دو عدد را به صورت بازگشتی حساب کند.<div dir="rtl">
+
+
+## <div dir="rtl">تمرین دوم</div>
+
+<div dir="rtl">تابعی بنویسید که حاصل توان دو عدد را به صورت بازگشتی حساب کند.<div dir="rtl">
+
+## <div dir="rtl">تمرین سوم</div>
+
