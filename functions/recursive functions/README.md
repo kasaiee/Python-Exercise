@@ -39,4 +39,8 @@
 
 ## ![](http://pyteacher.ir/wp-content/uploads/2018/08/formula.png)
 
+
+## تمرین هشتم
+
+تابع جستجوی دودویی یا binary search را بنویسید.
 </div>
