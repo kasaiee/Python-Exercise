@@ -37,8 +37,6 @@
 
 تابعی بنویسید که یک عدد به عنوان n در فرمول سری زیر بگیرد و حاصل آن را به دست آورد.
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
+## ![](http://pyteacher.ir/wp-content/uploads/2018/08/formula.png)
 
 </div>
