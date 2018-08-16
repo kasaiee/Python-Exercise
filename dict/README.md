@@ -44,6 +44,8 @@ values = ['MohammadReza', 'Kasaie', 23]
 
 برنامه‌ای بنویسید که آیتم های تکراری را از لیست زیر حذف کند.
 
+<div dir="ltr">
+
 ```
 student_data = {
  'id1': 
@@ -67,6 +69,8 @@ student_data = {
     'subject_integration': ['english, math, science']
    },
 ```
+
+</div>
 
 ## تمرین پنجم
 
