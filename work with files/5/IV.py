@@ -1,0 +1,1 @@
+print(len(open('../words.txt').readlines()))
