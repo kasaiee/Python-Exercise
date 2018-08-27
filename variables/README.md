@@ -1,7 +1,4 @@
 <div dir="rtl">
-  
-# Python-Exercise
-More exercises to become a good python developer
 
 ## تمرین اول
 
