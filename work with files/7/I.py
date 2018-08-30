@@ -1,0 +1,2 @@
+r_content = open('../words.txt').readlines()[::-1]
+open('r-words.txt', 'w').writelines(r_content)
