@@ -68,4 +68,11 @@ def is_prime(number):
 
 ## ![](http://pyteacher.ir/wp-content/uploads/2018/08/2000px-Pascal_triangle.svg_.png)
 
+
+## تمرین هفتم
+
+برنامه ای بنویسید که مجموع همه اعداد صحیح موجود در رشته زیر را حساب کند. (دقت کنید که مجاز به استفاده از try-except برای کنترل خطای تبدیل رشته به عدد صحیح نیستید!)
+
+`Do you know the result sum of 10 and 20 and 30 ?`
+
 </div>
