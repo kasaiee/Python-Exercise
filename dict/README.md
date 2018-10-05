@@ -27,12 +27,14 @@
 
 برنامه‌ای بنویسید که دو لیست، یکی حاوی کلید ها و دیگری حاوی مقادیر بگیرد و از آن دو لیست یک دیکشنری بسازد. مثلاً فرض کنید دو لیست به شکل زیر هستند:
 
-
+<div dir="ltr">
+    
 ```
 keys = ['fname', 'lname', 'age']
 values = ['MohammadReza', 'Kasaie', 23]
 ```
-
+    
+</div>
 خروجی باید این شکلی بشه:
 
 
@@ -68,6 +70,7 @@ student_data = {
     'class': ['V'], 
     'subject_integration': ['english, math, science']
    },
+}
 ```
 
 </div>
@@ -107,6 +110,6 @@ d2 = {'fname': 'ali', 'lname': 'moradi', 'age': 20, 'city': 'Shahrerey', 'phone'
 
 کد Morse نوعی کد گذاری رشته‌ها با استفاده از نقطه ها (.) و خط فاصله ها (-) است. برنامه‌ای بنویسید که یک رشته بر اساس کدگذاری morse بگیرد و آن را به حالت عادی ترجمه کند. لیست حروف و اعداد و معادل آن‌ها را در کدگذاری morse در جدول زیر مشاهده می‌کنید.
 
-## ![](http://pyteacher.ir/wp-content/uploads/2018/08/morse-code.png)
+## ![](https://microbit-challenges.readthedocs.io/en/latest/_images/morse.png)
 
 </div>
