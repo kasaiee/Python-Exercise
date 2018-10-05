@@ -39,10 +39,12 @@ values = ['MohammadReza', 'Kasaie', 23]
 </div>
 خروجی باید این شکلی بشه:
 
+<div dir="ltr">
 
 ```
 {'fname': 'MohammadReza', 'lname': 'Kasaie', 'age': 23}
 ```
+</div>
 
 ## تمرین چهارم
 
