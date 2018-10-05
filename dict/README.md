@@ -81,6 +81,11 @@ student_data = {
 
 برنامه‌ای بنویسید که از کلید های مشترک موجود در دو دیکشنری، یک دیکشنری جدید بسازد.
 
+```
+d1 = {'fname': 'ali', 'lname': 'moradi', 'age': 30, 'city': 'tehran', 'phone': '09377000000', 'country': 'iran'}
+d2 = {'fname': 'ali', 'lname': 'moradi', 'age': 20, 'city': 'Shahrerey', 'phone': '09377000001', 'country': 'iran'}
+```
+
 
 ## تمرین هفتم
 
