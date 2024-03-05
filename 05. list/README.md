@@ -64,4 +64,24 @@ output: [1, 2, 3, 4, 5]
 
 ## ![](http://pyteacher.ir/wp-content/uploads/2018/08/2000px-Pascal_triangle.svg_.png)
 
+
+## تمرین هشتم
+
+برنامه ای بنویسید که همه رشته ها را از داخل لیست زیر پیدا کند
+
+[
+    'reza',
+    1,
+    '2',
+    [
+        'goli',
+        0,
+        [
+            'meisam',
+            123
+        ]
+    ]
+]
+
+
 </div>
